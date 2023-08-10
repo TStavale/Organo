@@ -1,5 +1,3 @@
-/* src/componentes/Rodape/index.js */
-
 .footer {
     background: #6278F7;
     color: #FFF;
@@ -16,8 +14,4 @@
 
 .footer ul li:last-child {
     margin-right: 0;
-}
-
-.footer section:last-child {
-    width: 30%;
 }
